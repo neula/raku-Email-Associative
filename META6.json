@@ -1,0 +1,29 @@
+{
+  "api": "0",
+  "auth": "zef:neula",
+  "authors": [
+    "Neula"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "DateTime::Format",
+    "Hash::Agnostic"
+  ],
+  "description": "Parse Email into Associative",
+  "license": "Artistic-2.0",
+  "name": "Email::Associative",
+  "perl": "6.d",
+  "provides": {
+    "Email::Associative": "lib/Email/Associative.rakumod",
+    "Email::Associative::Header": "lib/Email/Associative/Header.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "git://github.com/neula/raku-Email-Associative.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
